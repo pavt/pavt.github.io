@@ -1,6 +1,12 @@
 ---
-title: "pavt.github.io"
+title: "Pablo Valenzuela"
+about: 
+  template: broadside
+  image: images/pic.png
+
 ---
+
+
 
 This is a Quarto website.
 
