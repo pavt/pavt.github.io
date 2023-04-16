@@ -4,18 +4,23 @@ project:
 
 website:
   title: "Pablo Valenzuela"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+  sidebar:
+    background: light
+    logo: "images/pic.png"
+    search: false
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://github.com/rstudio-conf-2022/teach-ds-course-website
+        text: GitHub
+      
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
+    
 
 
 

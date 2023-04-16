@@ -1,7 +1,7 @@
 {
-  "hash": "4325eecf18b87ebe0dba195b93d04969",
+  "hash": "8548e844f4dc64e624eb87a88db27c92",
   "result": {
-    "markdown": "---\ntitle: \"Pablo Valenzuela\"\nabout: \n  template: broadside\n  image: images/pic.png\n\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Pablo Valenzuela\"\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
