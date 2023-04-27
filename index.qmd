@@ -3,6 +3,10 @@ title: "Pablo Valenzuela"
 
 ---
 
-I am a PhD student at the University of Bern, Switzerland, supervised by Prof. Timo Kehrer and Emeritus Prof. Oscar Nierstrasz. Previously, I completed my master's and bachelor's degrees at the Universidad de La Frontera, Chile. 
+## About me
+
+I work in the  [SEG research group](https://seg.inf.unibe.ch) at the [University of Bern](https://www.unibe.ch/), Switzerland, supervised by Prof. Timo Kehrer and Emeritus Prof. Oscar Nierstrasz. Previously, I completed my master's and bachelor's degrees at the Universidad de La Frontera, Chile. 
 
 My research interests include software maintenance and evolution, mining software repositories, and empirical software engineering.
+
+## Upcoming events
