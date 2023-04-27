@@ -7,11 +7,11 @@
     "text": "I work in the SEG research group at the University of Bern, Switzerland, supervised by Prof. Timo Kehrer and Emeritus Prof. Oscar Nierstrasz. Previously, I completed my master’s and bachelor’s degrees at the Universidad de La Frontera, Chile.\nMy research interests include software maintenance and evolution, mining software repositories, and empirical software engineering."
   },
   {
-    "objectID": "index.html#upcoming-events",
-    "href": "index.html#upcoming-events",
-    "title": "Pablo Valenzuela",
-    "section": "Upcoming events",
-    "text": "Upcoming events"
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Valenzuela-Toledo, Pablo, and Alexandre Bergel. 2022. “Evolution of GitHub Action Workflows.” In 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 123–27. IEEE.\n\n\nValenzuela-Toledo, Pablo, Alexandre Bergel, Timo Kehrer, and Oscar Nierstrasz. 2023. EGAD: a Moldable Tool for GitHub Action Analysis (version 0.0.1). https://doi.org/10.5281/zenodo.7714219."
   },
   {
     "objectID": "about.html",

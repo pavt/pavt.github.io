@@ -1,0 +1,15 @@
+---
+title: "Publications"
+output: html_document
+bibliography: references.bib 
+---
+
+<div id = "refs"> </div>
+
+---
+nocite: |
+ @Valenzuela-Toledo_EGAD_a_Moldable_2023, 
+ @valenzuela2022evolution
+ 
+ 
+---
