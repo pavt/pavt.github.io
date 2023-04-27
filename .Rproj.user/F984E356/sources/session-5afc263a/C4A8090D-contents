@@ -1,8 +1,0 @@
-@inproceedings{kinsman2021software,
-  title={How do software developers use {GitHub} Actions to automate their workflows?},
-  author={Kinsman, Timothy and Wessel, Mairieli and Gerosa, Marco A and Treude, Christoph},
-  booktitle={2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR)},
-  pages={420--431},
-  year={2021},
-  organization={IEEE}
-}
