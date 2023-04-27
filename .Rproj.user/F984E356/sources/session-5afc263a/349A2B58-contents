@@ -1,12 +1,4 @@
-@software{Valenzuela-Toledo_EGAD_a_Moldable_2023,
-  author = {Valenzuela-Toledo, Pablo and Bergel, Alexandre and Kehrer, Timo and Nierstrasz, Oscar},
-  doi = {10.5281/zenodo.7714219},
-  month = jan,
-  title = {{EGAD: a Moldable Tool for GitHub Action Analysis}},
-  url = {https://github.com/pavt/egad},
-  version = {0.0.1},
-  year = {2023}
-}
+
 
 @inproceedings{valenzuela2022evolution,
   title={Evolution of GitHub Action Workflows},
