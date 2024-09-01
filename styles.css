@@ -1,0 +1,98 @@
+.pub-content {
+  max-width: 600px;
+  white-space: normal;  /* Ensure that content inside is treated as normal text */
+}
+
+.publication {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;  
+  border-radius: 8px;       
+  padding: 15px;            
+  background-color: #f9f9f9; 
+}
+
+.badge {
+  background-color: #8a2be2;
+  color: white;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-right: 15px;
+  font-size: 14px;
+  align-self: flex-start; 
+}
+
+.pub-content h3 {
+  margin: 0 0 10px;
+  font-size: 18px;
+}
+
+.pub-content p {
+  margin: 5px 0;
+  line-height: 1.6;  
+}
+
+.pub-links {
+  margin-top: 10px;
+  display: flex;          
+  gap: 10px;              
+}
+
+.pub-button {
+  background-color: #000;
+  color: white;
+  padding: 5px 10px;
+  text-decoration: none;   
+  border-radius: 5px;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.pub-button:hover {
+  background-color: #555;
+}
+
+.pub-button:active {
+  background-color: #333;
+}
+
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  background-color: #007bff;
+  border: 1px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  text-decoration: none;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #004085;
+}
+
+
+.btn-custom {
+  background-color: #f0f0f0; /* Color de fondo suave */
+  color: #333; /* Color del texto */
+  border: 1px solid #ccc; /* Borde */
+  padding: 5px 10px; /* Espaciado interno */
+  font-size: 12px; /* Tamaño de la fuente */
+  text-decoration: none; /* Eliminar subrayado */
+  border-radius: 4px; /* Bordes redondeados */
+  transition: background-color 0.3s ease; /* Transición suave */
+}
+
+.btn-custom:hover {
+  background-color: #e0e0e0; /* Color de fondo al pasar el ratón */
+}
+
+
