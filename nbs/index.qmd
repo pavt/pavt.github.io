@@ -1,23 +1,43 @@
 ---
-title: "My Research Page"
-format: html
+title: "Pablo Valenzuela"
+format: 
+  html: 
+    theme: cosmo
 toc: true
 sidebar: false
 description: "A collection of technical blogs and talks on machine learning and data science."
-bibliography: references.bib
-bibliographystyle: apa
+css: styles.css
 ---
 
 ## 💼 Pablo Valenzuela
 
-I'm Pablo Valenzuela, a researcher pursuing a Ph.D. at the University of Bern, Switzerland. I also teach computer science at the University of La Frontera in Chile. My research interests lie in software engineering, empirical software engineering, mining software repositories, and software maintenance and evolution.
+I'm Pablo Valenzuela, a researcher pursuing a Ph.D. at the University of Bern, Switzerland. I also teach computer science at the University of La Frontera in Chile. My research focuses on various aspects of software engineering, including empirical software engineering, mining software repositories, and the maintenance and evolution of software systems.
 
 In my current research, I am particularly interested in exploring how data-driven approaches can enhance DevOps practices, especially in optimizing software development processes and maintaining large-scale software systems. For more details on my work in this area, you can review my publications, where I discuss these topics in depth.
 
+## 📚 Selected Publications
 
-## 💼 Selected Publications
 
----
-nocite: |
-  @*
----
+**Exploring GitHub Actions through EGAD: An Experience Report**
+*Pablo Valenzuela-Toledo, Alexandre Bergel, Timo Kehrer, Oscar Nierstrasz*
+*IWST 23: Proceedings of International Workshop on Smalltalk Technologies, 2023*
+[PDF](/files/Vale23b.pdf){.btn .btn-custom}
+
+
+**The Hidden Costs of Automation: An Empirical Study on GitHub Actions Workflow Maintenance**
+*Pablo Valenzuela-Toledo, Alexandre Bergel, Timo Kehrer, Oscar Nierstrasz*
+*The 24th IEEE International Conference on Source Code Analysis and Manipulation (SCAM 2024), to be published*
+[PDF](/files/Hidden_Cost.pdf){.btn .btn-custom}
+
+
+**EGAD: A moldable tool for GitHub Action analysis**
+*Pablo Valenzuela-Toledo, Alexandre Bergel, Timo Kehrer, Oscar Nierstrasz*
+*2023 IEEE/ACM 20th International Conference on Mining Software Repositories (MSR), 2023*
+[PDF](/files/Vale23a-EGAD.pdf){.btn .btn-custom}
+
+**Evolution of GitHub Action Workflows**  
+*Pablo Valenzuela-Toledo, Alexandre Bergel*  
+*Proceedings of the 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2022*  
+[PDF](/files/Vale22a-GitHubActionWorkflows.pdf){.btn .btn-custom}
+
+

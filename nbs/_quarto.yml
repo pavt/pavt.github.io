@@ -3,18 +3,19 @@ project:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
     css: styles.css
     toc: true
-    keep-md: true
-  commonmark: default
+
 
 website:
   twitter-card: true
   open-graph: true
-  repo-actions: [issue]
+  
   navbar:
-    background: primary
+    navbar-width: 350px
+    background: light
     search: true
   sidebar:
     style: floating
