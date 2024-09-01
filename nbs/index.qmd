@@ -5,7 +5,6 @@ format:
     theme: cosmo
 toc: true
 sidebar: false
-description: "A collection of technical blogs and talks on machine learning and data science."
 css: styles.css
 ---
 
