@@ -1,5 +1,5 @@
 ---
-title: "Pablo Valenzuela"
+title: "💼 Pablo Valenzuela"
 format: 
   html: 
     theme: cosmo
@@ -8,9 +8,7 @@ sidebar: false
 css: styles.css
 ---
 
-## 💼 Pablo Valenzuela
-
-I'm Pablo Valenzuela, a researcher pursuing a Ph.D. at the University of Bern, Switzerland. I also teach computer science at the University of La Frontera in Chile. My research focuses on various aspects of software engineering, including empirical software engineering, mining software repositories, and the maintenance and evolution of software systems.
+I'm Pablo, a researcher pursuing a Ph.D. at the University of Bern, Switzerland. I also teach computer science at the University of La Frontera in Chile. My research focuses on various aspects of software engineering, including empirical software engineering, mining software repositories, and the maintenance and evolution of software systems.
 
 In my current research, I am particularly interested in exploring how data-driven approaches can enhance DevOps practices, especially in optimizing software development processes and maintaining large-scale software systems. For more details on my work in this area, you can review my publications, where I discuss these topics in depth.
 
