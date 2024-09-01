@@ -18,17 +18,15 @@ In my current research, I am particularly interested in exploring how data-drive
 ## 📚 Selected Publications
 
 
-**Exploring GitHub Actions through EGAD: An Experience Report**
-*Pablo Valenzuela-Toledo, Alexandre Bergel, Timo Kehrer, Oscar Nierstrasz*
-*IWST 23: Proceedings of International Workshop on Smalltalk Technologies, 2023*
-[PDF](/files/Vale23b.pdf){.btn .btn-custom}
-
-
 **The Hidden Costs of Automation: An Empirical Study on GitHub Actions Workflow Maintenance**
 *Pablo Valenzuela-Toledo, Alexandre Bergel, Timo Kehrer, Oscar Nierstrasz*
 *The 24th IEEE International Conference on Source Code Analysis and Manipulation (SCAM 2024), to be published*
 [PDF](/files/Hidden_Cost.pdf){.btn .btn-custom}
 
+**Exploring GitHub Actions through EGAD: An Experience Report**
+*Pablo Valenzuela-Toledo, Alexandre Bergel, Timo Kehrer, Oscar Nierstrasz*
+*IWST 23: Proceedings of International Workshop on Smalltalk Technologies, 2023*
+[PDF](/files/Vale23b.pdf){.btn .btn-custom}
 
 **EGAD: A moldable tool for GitHub Action analysis**
 *Pablo Valenzuela-Toledo, Alexandre Bergel, Timo Kehrer, Oscar Nierstrasz*
