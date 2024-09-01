@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "pavt.github.io"
+  site-url: "https://pavt.github.io/pavt.github.io"
+  description: "personal"
+  repo-branch: main
+  repo-url: "https://github.com/pavt/pavt.github.io"
