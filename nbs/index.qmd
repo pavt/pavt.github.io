@@ -1,0 +1,23 @@
+---
+title: "My Research Page"
+format: html
+toc: true
+sidebar: false
+description: "A collection of technical blogs and talks on machine learning and data science."
+bibliography: references.bib
+bibliographystyle: apa
+---
+
+## 💼 Pablo Valenzuela
+
+I'm Pablo Valenzuela, a researcher pursuing a Ph.D. at the University of Bern, Switzerland. I also teach computer science at the University of La Frontera in Chile. My research interests lie in software engineering, empirical software engineering, mining software repositories, and software maintenance and evolution.
+
+In my current research, I am particularly interested in exploring how data-driven approaches can enhance DevOps practices, especially in optimizing software development processes and maintaining large-scale software systems. For more details on my work in this area, you can review my publications, where I discuss these topics in depth.
+
+
+## 💼 Selected Publications
+
+---
+nocite: |
+  @*
+---

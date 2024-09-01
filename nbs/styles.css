@@ -1,37 +1,61 @@
-.cell {
-  margin-bottom: 1rem;
+.pub-content {
+  max-width: 600px;
+  white-space: normal;  /* Ensure that content inside is treated as normal text */
 }
 
-.cell > .sourceCode {
-  margin-bottom: 0;
+.publication {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;  
+  border-radius: 8px;       
+  padding: 15px;            
+  background-color: #f9f9f9; 
 }
 
-.cell-output > pre {
-  margin-bottom: 0;
+.badge {
+  background-color: #8a2be2;
+  color: white;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-right: 15px;
+  font-size: 14px;
+  align-self: flex-start; 
 }
 
-.cell-output > pre, .cell-output > .sourceCode > pre, .cell-output-stdout > pre {
-  margin-left: 0.8rem;
-  margin-top: 0;
-  background: none;
-  border-left: 2px solid lightsalmon;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
+.pub-content h3 {
+  margin: 0 0 10px;
+  font-size: 18px;
 }
 
-.cell-output > .sourceCode {
-  border: none;
+.pub-content p {
+  margin: 5px 0;
+  line-height: 1.6;  
 }
 
-.cell-output > .sourceCode {
-  background: none;
-  margin-top: 0;
+.pub-links {
+  margin-top: 10px;
+  display: flex;          
+  gap: 10px;              
 }
 
-div.description {
-  padding-left: 2px;
-  padding-top: 5px;
-  font-style: italic;
-  font-size: 135%;
-  opacity: 70%;
+.pub-button {
+  background-color: #000;
+  color: white;
+  padding: 5px 10px;
+  text-decoration: none;   
+  border-radius: 5px;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
 }
+
+.pub-button:hover {
+  background-color: #555;
+}
+
+.pub-button:active {
+  background-color: #333;
+}
+
+
