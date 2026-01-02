@@ -3,8 +3,8 @@ title: "Evolution of GitHub Action Workflows"
 date: 2023-05-15 00:00:00 +0000
 selected: false
 
-pub: "MSR 2023 — Data and Tool Showcase Track"
-pub_date: "2023"
+pub: "IEEE International Conference on Software Analysis, Evolution and Reengineering"
+pub_date: "2022"
 pub_last: >
   <span class="badge badge-pill badge-publication badge-primary">SANER</span>
   <span class="badge badge-pill badge-publication badge-secondary">Conference</span>
