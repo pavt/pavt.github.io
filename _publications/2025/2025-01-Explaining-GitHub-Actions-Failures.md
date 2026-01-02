@@ -7,7 +7,6 @@ pub: "International Conference on Program Comprehension (ICPC)"
 pub_date: "2025"
 pub_last: >
   <span class="badge badge-pill badge-publication badge-primary">ICPC</span>
-  <span class="badge badge-pill badge-publication badge-secondary">Conference</span>
 
 authors:
   - Pablo Valenzuela-Toledo
