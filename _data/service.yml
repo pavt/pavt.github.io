@@ -1,18 +1,21 @@
 - category: Program Committees
   items:
     - "MSR Conference (2022) – Junior PC"
-    - "FSE Conference (2023, 2024, 2025) – Second Reviewer"
+    - "FSE Conference (2024, 2025, 2026) – Second Reviewer"
     - "The 3rd International Workshop on Mining Software Repositories Applications for Privacy and Security (SANER) (2025) – PC"
     - "Technical Debt Conference (2026) – Junior PC"
-
-- category: Reviewing
-  items:
     - "ICSME Conference (2025) – Second Reviewer"
-    - "ICSE Conference (2025) – Second Reviewer"
+    - "ICSE Conference (2025, 2026) – Second Reviewer"
     - "EASE Conference (2025) – Second Reviewer"
     - "SPLC Conference (2025) – Second Reviewer"
-    - "ACM Transactions on Software Engineering and Methodology (2024, 2025) – Journal Reviewer"
-    - "Journal of Software: Evolution and Process (2024, 2025) – Journal Reviewer"
+    - "Technical Debt Conference (2026) – Junior PC"
+    - "FSE Conference (2026) – Tutorials Program Committee"
+
+
+- category: Journal Reviewer
+  items:
+    - "ACM Transactions on Software Engineering and Methodology"
+    - "Journal of Software: Evolution and Process"
 
 - category: Talks
   items:
