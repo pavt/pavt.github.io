@@ -19,6 +19,6 @@ authors:
   - Timo Kehrer
 
 links:
-  Paper: /assets/pdfs/Explaining-GitHub-Actions-Failures-LLMs.pdf
+  Paper: /assets/pdfs/Explaining-GitHub-Actions-Failures-LLMs-summary.pdf
 
 ---
