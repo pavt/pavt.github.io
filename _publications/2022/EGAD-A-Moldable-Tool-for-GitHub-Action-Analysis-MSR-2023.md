@@ -10,7 +10,7 @@ pub_last: >
   <span class="badge badge-pill badge-publication badge-secondary">Conference</span>
 
 authors:
-  - Pablo Valenzuela-Toledo (UFRO / University of Bern)
+  - Pablo Valenzuela-Toledo (UBern / UFRO)
   - Alexandre Bergel (Relational AI)
   - Timo Kehrer
   - Oscar Nierstrasz
