@@ -16,5 +16,5 @@ authors:
 
 links:
   Paper: /assets/pdfs/Exploring-GitHub-Actions-through-EGAD.pdf
-  CEUR: https://ceur-ws.org/Vol-3627/Exploring-GitHub-Actions-through-EGAD.pdf
+  IWST: https://ceur-ws.org/Vol-3627/Exploring-GitHub-Actions-through-EGAD.pdf
 ---
