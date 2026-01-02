@@ -17,5 +17,5 @@ authors:
 
 links:
   Paper: /assets/pdfs/Evolution-of-GitHub-Action-Workflows-SANER-2022.pdf
-  IEEE: https://doi.org/10.1109/MSR59073.2023.00044
+  IEEE: https://ieeexplore.ieee.org/document/9825774
 ---
