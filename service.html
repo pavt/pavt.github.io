@@ -1,0 +1,15 @@
+---
+layout: default
+title: Service
+---
+
+<h1>Service</h1>
+
+{% for section in site.data.service %}
+  <h2>{{ section.category }}</h2>
+  <ul>
+    {% for item in section.items %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+{% endfor %}
