@@ -1,0 +1,21 @@
+- category: Program Committees
+  items:
+    - "MSR Conference (2022) – Junior PC"
+    - "FSE Conference (2023, 2024, 2025) – Second Reviewer"
+    - "The 3rd International Workshop on Mining Software Repositories Applications for Privacy and Security (SANER) (2025) – PC"
+    - "Technical Debt Conference (2026) – Junior PC"
+
+- category: Reviewing
+  items:
+    - "ICSME Conference (2025) – Second Reviewer"
+    - "ICSE Conference (2025) – Second Reviewer"
+    - "EASE Conference (2025) – Second Reviewer"
+    - "SPLC Conference (2025) – Second Reviewer"
+    - "ACM Transactions on Software Engineering and Methodology (2024, 2025) – Journal Reviewer"
+    - "Journal of Software: Evolution and Process (2024, 2025) – Journal Reviewer"
+
+- category: Talks
+  items:
+    - "3rd International Software Engineering Summer School, Lugano, Switzerland (Sep 11–13, 2023) – Presented “A Moldable Approach for GitHub Actions Analysis”"
+    - "AIware Leadership Bootcamp, Toronto, Canada (Nov 03–08, 2024) – Presented “Can LLMs Explain GitHub Action Failures? Preliminary Results”"
+    - "Innoguard Winter School, Bern, Switzerland (Nov 27, 2024) – Presented “Explaining GitHub Actions Failures with Large Language Models”"
