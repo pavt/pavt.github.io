@@ -1,4 +1,4 @@
 ---
-title: 'Thesis proposal accepted at <a href="https://conf.researchr.org/track/icse-2026/icse-2026-doctoral-symposium" target="_blank">ICSE 2026 Doctoral Symposium</a>'
+title: 'Thesis proposal accepted at <a href="https://conf.researchr.org/track/icse-2026/icse-2026-doctoral-symposium" target="_blank">ICSE 2026 Doctoral Symposium</a> — Rio de Janeiro, Brazil'
 date: 2025-01-11
 ---
