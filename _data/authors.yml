@@ -1,22 +1,35 @@
-"Your Name":
+"Pablo Valenzuela-Toledo (UBern / UFRO)":
+  name: Pablo Valenzuela-Toledo
   bold: true
 
-"Robert White":
-  url: https://www.google.com/?q=Robert+White
+"Alexandre Bergel (Relational AI)":
+  name: Alexandre Bergel
+  url: https://scholar.google.com/citations?hl=es&user=5pG4GQ8AAAAJ&view_op=list_works&sortby=pubdate
 
-"Charles Green (MIT)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+MIT
+"Timo Kehrer (UBern)":
+  name: Timo Kehrer
+  url: https://scholar.google.com/citations?user=WJw1SK0AAAAJ&hl=en
 
-"Charles Green (Stanford)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+Stanford
+"Oscar Nierstrasz (Feenk)":
+  name: Oscar Nierstrasz
+  url: https://www.google.com/?q=Oscar+Nierstrasz+University+of+Bern
 
-"Garrett Harris":
-  url: https://www.google.com/?q=Garrett+Harris
+"Chuyue Wu (UBern)":
+  name: Chuyue Wu
+  url: https://www.google.com/?q=Chuyue+Wu+Humboldt+University+Berlin
 
-"James Wang":
-  url: https://www.google.com/?q=James+Wang
+"Sandro Hernandez (UBern)":
+  name: Sandro Hernandez
+  url: https://www.google.com/?q=Sandro+Hernandez+University+of+Bern
 
-"John Doe":
-  url: https://www.google.com/?q=John+Doe
+"Alexander Boll (UBern)":
+  name: Alexander Boll
+  url: https://www.google.com/?q=Alexander+Boll+University+of+Bern
+
+"Roman Machacek (UBern)":
+  name: Roman Machacek
+  url: https://www.google.com/?q=Roman+Machacek+University+of+Bern
+
+"Sebastiano Panichella (UBern)":
+  name: Sebastiano Panichella
+  url: https://www.google.com/?q=Sebastiano+Panichella+Zurich+University+of+Applied+Sciences
