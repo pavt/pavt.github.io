@@ -1,10 +1,10 @@
 ---
-title: "Evolution of GitHub Action Workflows"
-date: 2022-03-01 00:00:00 +0000
+title: "EGAD: A Moldable Tool for GitHub Action Analysis"
+date: 2023-03-01 00:00:00 +0000
 selected: false
 
-pub: "IEEE International Conference on Software Analysis, Evolution and Reengineering"
-pub_date: "2022"
+pub: "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2023)"
+pub_date: "2023"
 pub_last: >
   <span class="badge badge-pill badge-publication badge-primary">SANER</span>
   <span class="badge badge-pill badge-publication badge-secondary">Conference</span>
@@ -12,8 +12,9 @@ pub_last: >
 authors:
   - Pablo Valenzuela-Toledo
   - Alexandre Bergel
+  - Timo Kehrer
 
 links:
-  Paper: /assets/pdfs/Evolution-of-GitHub-Action-Workflows-SANER-2022.pdf
-  IEEE: https://doi.org/10.1109/SANER53432.2022.00026
+  Paper: /assets/pdfs/EGAD-A-Moldable-Tool-for-GitHub-Action-Analysis-SANER-2023.pdf
+  IEEE: https://ieeexplore.ieee.org/document/10173982
 ---
