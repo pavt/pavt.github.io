@@ -1,6 +1,6 @@
 ---
 title: "Explaining GitHub Actions Failures with Large Language Models: Challenges, Insights, and Limitations — Summary"
-date: 20256-01-01 00:00:00 +0000
+date: 2026-02-01 00:00:00 +0000
 selected: false
 
 pub: "Software Engineering Conference — Scientific Program Track"
