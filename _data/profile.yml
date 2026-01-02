@@ -4,8 +4,8 @@ navbar_name: "Pablo Valenzuela"
 
 positions:
 - name: Software Engineering Researcher
-- name: University of Bern
-- name: Universidad de La Frontera
+- name: University of Bern (Switzerland)
+- name: Universidad de La Frontera (Chile)
 
 email: "pablo at valenzuela [at] unibe.ch / ufrontera.cl"
 
@@ -16,8 +16,9 @@ linkedin: pablo-valenzuela-a26603330
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Software engineering researcher with interests in the construction of flexible software systems
-    and the analysis of modern development ecosystems.
+    I’m Pablo Valenzuela, a software engineering researcher at the University of Bern (Switzerland)
+    and Universidad de La Frontera (Chile). I conduct research on tools, techniques, and methods
+    to support the comprehension and evolution of complex software.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
