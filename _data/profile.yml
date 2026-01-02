@@ -3,10 +3,11 @@ secondary_name: ""
 navbar_name: "Pablo Valenzuela"
 
 positions:
-- name: Software Engineering Researcher
- 
+  - name: Software Engineering Researcher
+  - name: University of Bern (Switzerland)
+  - name: Universidad de La Frontera (Chile)
 
-email: "email: "pablo.valenzuela [at] unibe.ch / ufrontera.cl"
+email: "pablo.valenzuela [at] unibe.ch / ufrontera.cl"
 
 gscholar: G701cJ4AAAAJ
 github: pavt
@@ -15,21 +16,9 @@ linkedin: pablo-valenzuela-a26603330
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I’m Pablo Valenzuela, a software engineering researcher at the University of Bern (Switzerland)
+    I'm Pablo Valenzuela, a software engineering researcher at the University of Bern (Switzerland)
     and Universidad de La Frontera (Chile). I conduct research on tools, techniques, and methods
     to support the comprehension and evolution of complex software.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-# portrait_caption: >-
-#   Optional caption for the profile photo.
-
-# education:
-# - name: University Name
-#   logo: /assets/images/badges/university_logo.png
-#   position: Degree or Program
-#   date: Year - Year
-
-# awards:
-# - name: Award Name
-#   date: Year
