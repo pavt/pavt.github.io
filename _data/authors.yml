@@ -1,35 +1,21 @@
-"Pablo Valenzuela-Toledo (UBern / UFRO)":
-  name: Pablo Valenzuela-Toledo
-  bold: true
+---
+title: "Evolution of GitHub Action Workflows"
+date: 2023-05-15 00:00:00 +0000
+selected: false
 
-"Alexandre Bergel (Relational AI)":
-  name: Alexandre Bergel
-  url: https://scholar.google.com/citations?hl=es&user=5pG4GQ8AAAAJ&view_op=list_works&sortby=pubdate
+pub: "MSR 2023 — Data and Tool Showcase Track"
+pub_date: "2023"
+pub_last: >
+  <span class="badge badge-pill badge-publication badge-primary">MSR</span>
+  <span class="badge badge-pill badge-publication badge-secondary">Conference</span>
 
-"Timo Kehrer (UBern)":
-  name: Timo Kehrer
-  url: https://scholar.google.com/citations?user=WJw1SK0AAAAJ&hl=en
+authors:
+  - Pablo Valenzuela-Toledo
+  - Alexandre Bergel
+  - Timo Kehrer
+  - Oscar Nierstrasz
 
-"Oscar Nierstrasz (Feenk)":
-  name: Oscar Nierstrasz
-  url: https://scholar.google.com/citations?user=Yi00hUYAAAAJ&hl=en
-
-"Chuyue Wu (UBern)":
-  name: Chuyue Wu
-  url:  
-
-"Sandro Hernandez (UBern)":
-  name: Sandro Hernandez
-  url:  
-
-"Alexander Boll (UBern)":
-  name: Alexander Boll
-  url: https://scholar.google.com/citations?user=gxju6l0AAAAJ
-
-"Roman Machacek (UBern)":
-  name: Roman Machacek
-  url:  
-
-"Sebastiano Panichella (UBern)":
-  name: Sebastiano Panichella
-  url: https://scholar.google.com/citations?user=HiNuBFgAAAAJ&hl=es&oi=sra
+links:
+  Paper: /assets/pdfs/Evolution-of-GitHub-Action-Workflows-MSR-2023.pdf
+  IEEE: https://ieeexplore.ieee.org/document/9825774
+---
