@@ -1,28 +1,37 @@
-- category: Program Committees
-  items:
-    - "**FSE Conference** (2026) — *Tutorials Program Committee*"
-    - "**Technical Debt Conference** (2026) — *Junior Program Committee*"
-    - "**ICSE Conference** (2026) — *Second Reviewer*"
-    - "**FSE Conference** (2025–2026) — *Second Reviewer*"
-    - "**MSR4P&S (SANER)** (2025) — *Program Committee*"
-    - "**ICSME Conference** (2025) — *Second Reviewer*"
-    - "**ICSE Conference** (2025) — *Second Reviewer*"
-    - "**EASE Conference** (2025) — *Second Reviewer*"
-    - "**SPLC Conference** (2025) — *Second Reviewer*"
-    - "**MSR Conference** (2022) — *Junior Program Committee*"
+- title: Service
+
+  categories:
+
+  - category: Program Committees
+    items:
+      - "FSE Conference, 2026 — Tutorials Program Committee"
+      - "Technical Debt Conference, 2026 — Junior Program Committee"
+      - "ICSE Conference, 2026 — Second Reviewer"
+      - "FSE Conference, 2025–2026 — Second Reviewer"
+      - "MSR4P&S (SANER), 2025 — Program Committee"
+      - "ICSME Conference, 2025 — Second Reviewer"
+      - "ICSE Conference, 2025 — Second Reviewer"
+      - "EASE Conference, 2025 — Second Reviewer"
+      - "SPLC Conference, 2025 — Second Reviewer"
+      - "MSR Conference, 2022 — Junior Program Committee"
 
 
-- category: Journal Reviewer
-  items:
-    - "**ACM Transactions on Software Engineering and Methodology (TOSEM)**"
-    - "**Journal of Software: Evolution and Process**"
+  - category: Journal Reviewer
+    items:
+      - "ACM Transactions on Software Engineering and Methodology (TOSEM)"
+      - "Journal of Software: Evolution and Process"
 
 
-- category: Talks
-  items:
-    - "**Innoguard Winter School**, Bern, Switzerland (Nov 27, 2025)  
-      *Explaining GitHub Actions Failures with Large Language Models*"
-    - "**AIware Leadership Bootcamp**, Toronto, Canada (Nov 03–08, 2024)  
-      *Can LLMs Explain GitHub Action Failures? Preliminary Results*"
-    - "**3rd International Software Engineering Summer School**, Lugano, Switzerland (Sep 11–13, 2023)  
-      *A Moldable Approach for GitHub Actions Analysis*"
+  - category: Talks
+    items:
+      - |
+        Innoguard Winter School, Bern, Switzerland — Nov 27, 2025
+        Explaining GitHub Actions Failures with Large Language Models
+
+      - |
+        AIware Leadership Bootcamp, Toronto, Canada — Nov 03–08, 2024
+        Can LLMs Explain GitHub Action Failures? Preliminary Results
+
+      - |
+        3rd International Software Engineering Summer School, Lugano, Switzerland — Sep 11–13, 2023
+        A Moldable Approach for GitHub Actions Analysis
