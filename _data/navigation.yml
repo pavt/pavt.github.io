@@ -7,5 +7,5 @@ pages:
   url: /publications
 - name: Service
   url: /service
-- name: Research Highlights
-  url: /showcase
+#- name: Research Highlights
+# url: /showcase
