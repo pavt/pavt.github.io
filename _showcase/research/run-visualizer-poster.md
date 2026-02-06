@@ -2,7 +2,7 @@
 show: true
 width: 12
 date: 2026-06-15 00:00:00 +0800
-group: Research
+group: ""
 ---
 
 <div class="p-4">
@@ -35,49 +35,48 @@ group: Research
 
   <hr />
 
-  <!-- ===== APPROACH PIPELINE ===== -->
-  <div class="text-center mb-4">
-    <img src="{{ 'assets/images/showcase/run-visualizer/app_overview.png' | relative_url }}" alt="Approach Overview" class="img-fluid rounded" style="max-height: 100px;">
+  <!-- ===== ABSTRACT ===== -->
+  <div class="mb-4">
+    <h6 class="font-weight-bold text-uppercase" style="letter-spacing: 0.05em; font-size: 0.75rem; color: #6c757d;">
+      <i class="fas fa-align-left mr-1"></i>Abstract
+    </h6>
+    <p class="small text-justify" style="line-height: 1.7;">
+      Workflow runs record the executions of continuous integration and delivery specifications. They serve as the primary monitoring mechanism, enabling failure detection and integration reliability assessment. However, understanding run intricacies is far from trivial. Each run involves multiple interdependent execution units (e.g., attempts, jobs, and steps) whose relationships are not immediately visible. Moreover, current tools provide limited support for detecting patterns across runs, particularly in projects with high workflow execution frequency. As a result, run monitoring remains constrained to fragmented views that are cumbersome to use.
+    </p>
+    <p class="small text-justify" style="line-height: 1.7;">
+      We present a novel approach that supports workflow run comprehension through interactive and animated visualizations. Our approach enables developers to inspect end-to-end execution traces and to identify structural and behavioral patterns. We implemented a GitHub Actions prototype and analyzed runs from public repositories to illustrate its potential. Preliminary insights suggest that the approach is feasible and provides a starting point for workflow run comprehension analysis.
+    </p>
   </div>
 
-  <!-- ===== MOTIVATION + APPROACH ===== -->
+  <!-- ===== APPROACH PIPELINE ===== -->
+  <div class="text-center mb-4">
+    <img src="{{ 'assets/images/showcase/run-visualizer/app_overview.png' | relative_url }}" alt="Approach Overview" class="img-fluid rounded" style="max-height: 120px;">
+    <p class="text-center text-muted small mt-1">Approach: GitHub repositories &rarr; Data extraction &rarr; Run Domain Model &rarr; Specific Views &rarr; Interactive Visual Narratives</p>
+  </div>
+
+  <hr />
+
+  <!-- ===== APPROACH STEPS ===== -->
   <div class="row mb-4">
-    <div class="col-md-5 mb-3">
-      <h6 class="font-weight-bold text-uppercase" style="letter-spacing: 0.05em; font-size: 0.75rem; color: #6c757d;">
-        <i class="fas fa-exclamation-circle mr-1"></i>Problem
-      </h6>
-      <p class="small" style="line-height: 1.7;">
-        Workflow runs involve multiple interdependent execution units (attempts, jobs, steps) whose relationships are not immediately visible. Current tools provide fragmented and predominantly textual representations that limit pattern detection and failure diagnosis across run histories.
-      </p>
+    <div class="col-md-4 mb-2">
+      <div class="p-3 rounded text-center h-100" style="background-color: #f8f9fa;">
+        <i class="fas fa-download mb-2" style="font-size: 1.2rem; color: #6c757d;"></i>
+        <div class="font-weight-bold">Data Extraction</div>
+        <div class="small text-muted">Mining structured and unstructured run data from GitHub REST API (JSON metadata + log files).</div>
+      </div>
     </div>
-    <div class="col-md-7 mb-3">
-      <h6 class="font-weight-bold text-uppercase" style="letter-spacing: 0.05em; font-size: 0.75rem; color: #6c757d;">
-        <i class="fas fa-cogs mr-1"></i>Approach
-      </h6>
-      <div class="small" style="line-height: 1.7;">
-        <div class="row">
-          <div class="col-sm-4 mb-2">
-            <div class="p-2 rounded text-center" style="background-color: #f8f9fa;">
-              <i class="fas fa-download mb-1" style="color: #6c757d;"></i>
-              <div><strong>Data Extraction</strong></div>
-              <div class="text-muted" style="font-size: 0.85em;">GitHub REST API<br>JSON + Logs</div>
-            </div>
-          </div>
-          <div class="col-sm-4 mb-2">
-            <div class="p-2 rounded text-center" style="background-color: #f8f9fa;">
-              <i class="fas fa-project-diagram mb-1" style="color: #6c757d;"></i>
-              <div><strong>Domain Model</strong></div>
-              <div class="text-muted" style="font-size: 0.85em;">Execution + Context<br>entities</div>
-            </div>
-          </div>
-          <div class="col-sm-4 mb-2">
-            <div class="p-2 rounded text-center" style="background-color: #f8f9fa;">
-              <i class="fas fa-chart-bar mb-1" style="color: #6c757d;"></i>
-              <div><strong>Visualization</strong></div>
-              <div class="text-muted" style="font-size: 0.85em;">Interactive &amp; animated<br>multi-level views</div>
-            </div>
-          </div>
-        </div>
+    <div class="col-md-4 mb-2">
+      <div class="p-3 rounded text-center h-100" style="background-color: #f8f9fa;">
+        <i class="fas fa-project-diagram mb-2" style="font-size: 1.2rem; color: #6c757d;"></i>
+        <div class="font-weight-bold">Domain Model</div>
+        <div class="small text-muted">A Workflow Run Domain Model capturing execution entities (attempts, jobs, steps) and contextual entities (failure-context, commits).</div>
+      </div>
+    </div>
+    <div class="col-md-4 mb-2">
+      <div class="p-3 rounded text-center h-100" style="background-color: #f8f9fa;">
+        <i class="fas fa-chart-bar mb-2" style="font-size: 1.2rem; color: #6c757d;"></i>
+        <div class="font-weight-bold">Visualization</div>
+        <div class="small text-muted">Interactive and animated coarse- and fine-grained views revealing execution behavior at multiple levels of detail.</div>
       </div>
     </div>
   </div>
@@ -86,54 +85,51 @@ group: Research
 
   <!-- ===== VISUALIZATIONS ===== -->
   <h6 class="font-weight-bold text-uppercase text-center mb-3" style="letter-spacing: 0.05em; font-size: 0.75rem; color: #6c757d;">
-    <i class="fas fa-eye mr-1"></i>Visualizations — Run-Visualizer
+    <i class="fas fa-eye mr-1"></i>Run-Visualizer
   </h6>
 
-  <!-- Tool screenshot -->
+  <!-- Tool screenshot (highest res image) -->
   <div class="mb-4">
     <img src="{{ 'assets/images/showcase/run-visualizer/coarse-fine-views.png' | relative_url }}" alt="Run-Visualizer Tool" class="img-fluid rounded shadow-sm w-100">
-    <p class="text-center text-muted small mt-1"><em>Run-Visualizer</em> — Coarse-grained (left) and fine-grained (right) views built on Glamorous Toolkit</p>
+    <p class="text-center text-muted small mt-2"><em>Run-Visualizer</em> — Coarse-grained polymetric view (left) and fine-grained run anatomy view (right), built on <a href="https://gtoolkit.com/" target="_blank">Glamorous Toolkit</a></p>
   </div>
 
-  <!-- Views grid: 2x2 -->
+  <!-- Run Anatomy detail -->
   <div class="row mb-3">
-
-    <!-- Polymetric Run View -->
-    <div class="col-md-6 mb-3">
+    <div class="col-md-7 mb-3">
       <div class="border rounded p-3 h-100" style="background-color: #fdfdfd;">
-        <h6 class="font-weight-bold mb-2"><span class="badge badge-success mr-1">Coarse</span> Polymetric Run View</h6>
-        <img src="{{ 'assets/images/showcase/run-visualizer/polymetric-view.png' | relative_url }}" alt="Polymetric Run View" class="img-fluid rounded mb-2">
-        <p class="small text-muted mb-0">Each run is a rectangle: width = # jobs, height = duration, color = conclusion state. Hatched headers encode triggering events.</p>
-      </div>
-    </div>
-
-    <!-- Run Anatomy View -->
-    <div class="col-md-6 mb-3">
-      <div class="border rounded p-3 h-100" style="background-color: #fdfdfd;">
-        <h6 class="font-weight-bold mb-2"><span class="badge badge-info mr-1">Fine</span> Run Anatomy View</h6>
+        <h6 class="font-weight-bold mb-2"><span class="badge badge-info mr-1">Fine-grained</span> Run Anatomy View</h6>
         <img src="{{ 'assets/images/showcase/run-visualizer/run-anatomy-view.png' | relative_url }}" alt="Run Anatomy View" class="img-fluid rounded mb-2">
-        <p class="small text-muted mb-0">Coordinated panels (Attempts, Jobs, Steps, Log, Commit) with animated transitions to trace execution flow.</p>
+        <p class="small text-muted mb-0">Five coordinated panels — Attempts, Jobs, Steps, Log (microprint), and Commit — with animated transitions to reconstruct end-to-end execution traces.</p>
       </div>
     </div>
-
-    <!-- Failure Context View -->
-    <div class="col-md-6 mb-3">
-      <div class="border rounded p-3 h-100" style="background-color: #fdfdfd;">
-        <h6 class="font-weight-bold mb-2"><span class="badge badge-danger mr-1">Fine</span> Failure-Context View</h6>
-        <img src="{{ 'assets/images/showcase/run-visualizer/context-view.png' | relative_url }}" alt="Failure Context View" class="img-fluid rounded mb-2">
-        <p class="small text-muted mb-0">Failure collection, author-workflow matrix, failures by step, and failures by commit — linking developers to instability sources.</p>
+    <div class="col-md-5 mb-3">
+      <div class="border rounded p-3 h-100 d-flex flex-column justify-content-center" style="background-color: #fdfdfd;">
+        <h6 class="font-weight-bold mb-3">Supported Views</h6>
+        <div class="small">
+          <div class="mb-2">
+            <span class="badge badge-success mr-1">Coarse</span>
+            <strong>Polymetric Runs</strong>
+            <div class="text-muted ml-4" style="font-size: 0.85em;">Rectangles encoding jobs, duration, conclusion state, and triggering events across workflows.</div>
+          </div>
+          <div class="mb-2">
+            <span class="badge badge-success mr-1">Coarse</span>
+            <strong>Polymetric Actors</strong>
+            <div class="text-muted ml-4" style="font-size: 0.85em;">Actor participation: runs triggered, workflows involved, bot vs. human distinction.</div>
+          </div>
+          <div class="mb-2">
+            <span class="badge badge-info mr-1">Fine</span>
+            <strong>Run Anatomy</strong>
+            <div class="text-muted ml-4" style="font-size: 0.85em;">Animated decomposition of a single run into attempts, jobs, steps, and log microprints.</div>
+          </div>
+          <div class="mb-2">
+            <span class="badge badge-danger mr-1">Fine</span>
+            <strong>Failure-Context Collection</strong>
+            <div class="text-muted ml-4" style="font-size: 0.85em;">Author-workflow matrix, failures by step, and failures by commit.</div>
+          </div>
+        </div>
       </div>
     </div>
-
-    <!-- Run Anatomy View 2 (from paper) -->
-    <div class="col-md-6 mb-3">
-      <div class="border rounded p-3 h-100" style="background-color: #fdfdfd;">
-        <h6 class="font-weight-bold mb-2"><span class="badge badge-info mr-1">Fine</span> Run Anatomy — electron/electron</h6>
-        <img src="{{ 'assets/images/showcase/run-visualizer/run-anatomy-view-2.png' | relative_url }}" alt="Run Anatomy View electron" class="img-fluid rounded mb-2">
-        <p class="small text-muted mb-0">Build workflow run trace showing failure propagation across attempts, jobs, steps, and log microprints.</p>
-      </div>
-    </div>
-
   </div>
 
   <hr />
