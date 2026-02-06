@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(bundle exec jekyll build:*)"
+      "Bash(bundle exec jekyll build:*)",
+      "WebFetch(domain:courtney-e-miller.github.io)",
+      "Bash(python3:*)",
+      "Bash(sips:*)",
+      "Bash(ls:*)"
     ]
   }
 }
