@@ -1,5 +1,5 @@
 ---
-title: "Exploring GitHub Actions through EGAD"
+title: "Exploring GitHub Actions through EGAD: An Experience Report"
 date: 2023-01-01 00:00:00 +0000
 selected: false
 
