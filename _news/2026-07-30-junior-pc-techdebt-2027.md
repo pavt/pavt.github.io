@@ -1,0 +1,4 @@
+---
+title: 'Junior Program Committee member for Technical Debt Conference 2027'
+date: 2026-07-30
+---
